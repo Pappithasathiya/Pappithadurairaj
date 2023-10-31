@@ -1,4 +1,4 @@
-# Pappithadurairaj<!DOCTYPE html>
+# <!DOCTYPE html>
 <html>
 <head>
     <title>Your Name - Portfolio</title>
@@ -95,7 +95,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="./mypic.>
+            
             <h1>pappitha D</h1>
             <p>student </p>
         </div>
